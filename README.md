@@ -6,7 +6,7 @@ The model is already trained using 768 different types of data.
 
 # Objective
 ## Techniques Used
-*Data Cleaning
+* Data Cleaning
 *Data Visualization
 *Machine Learning Modeling
 
